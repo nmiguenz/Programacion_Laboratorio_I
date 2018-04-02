@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522200213 source:d:\funcion sumar\main.c
+	<stdio.h>
+	<stdlib.h>
+
