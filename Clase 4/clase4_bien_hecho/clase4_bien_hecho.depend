@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522885758 source:d:\nicomiguenz\clase4_bien_hecho\lib.c
+	<stdio.h>
+	<stdlib.h>
+
+1522886347 source:d:\nicomiguenz\clase4_bien_hecho\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1522885751 d:\nicomiguenz\clase4_bien_hecho\lib.h
+
