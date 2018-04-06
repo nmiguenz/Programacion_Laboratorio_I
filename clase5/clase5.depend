@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522969417 source:d:\nicomiguenz\clase5\lib.c
+	<stdio.h>
+	<stdlib.h>
+
+1522969792 source:d:\nicomiguenz\clase5\main.c
+	<stdio.h>
+	<stdlib.h>
+
