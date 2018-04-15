@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1523487545 source:d:\clase6\sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1523487769 source:d:\clase6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sort.h"
+
+1523486620 d:\clase6\sort.h
+
+1523823885 source:c:\users\nico\desktop\programacion_laboratorio_i\clase 6 - 7\sort\sort.c
+	<stdio.h>
+	<stdlib.h>
+
