@@ -8,7 +8,7 @@ int main()
     sort_mostrarArrayEnteros(array,11);
     printf("\n\n");
 
-    if(!sort_ordenarArrayEnteros(array,11,1))
+    if(!sort_ordenarArrayEnteros(array,11,0))
     {
         sort_mostrarArrayEnteros(array,11);
         printf("\n\n");
